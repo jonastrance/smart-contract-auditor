@@ -1,1 +1,3 @@
-# smart-contract-auditor
+# Smart Contract Auditor
+
+Smart Contract Auditor is an AI-powered platform that automatically analyzes blockchain smart contracts for security vulnerabilities, gas optimization opportunities, and code quality issues. The platform supports Ethereum, Solana, and other major blockchain networks, providing detailed audit reports with severity ratings and remediation suggestions. Developers can integrate the tool via API or web interface, running automated audits before deployment to prevent costly exploits. Revenue is generated through a tiered subscription model ($49-$499/month) based on number of audits and features, with enterprise plans for large blockchain companies requiring continuous monitoring. Additional income streams include pay-per-audit options for occasional users and white-label licensing to blockchain development agencies who want to offer auditing services under their own brand.
